@@ -28,7 +28,7 @@ h1 {
 
 .figure-container {
   fill: transparent;
-  stroke: #fff;
+  stroke: #dbd676;
   stroke-width: 4px;
   stroke-linecap: round;
 }
@@ -63,7 +63,7 @@ h1 {
 }
 
 .letter {
-  border-bottom: 3px solid #c2622b;
+  border-bottom: 3px solid #e01444;
   display: inline-flex;
   font-size: 30px;
   align-items: center;
